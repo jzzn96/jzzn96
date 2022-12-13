@@ -1,6 +1,6 @@
 Olá Pessoal!
 
-Eu sou Jean Santos, sou um programador Fron-End, atualmente estou criando projetos no HTML, CSS e JavaScript e React..
+Eu sou Jean Santos, sou um programador Front-End, atualmente estou criando projetos no HTML, CSS e JavaScript e React..
 Estou sempre em busca de novos desafios e aprendizados
 
 Status do Perfil:
