@@ -7,9 +7,6 @@ Estou sempre em busca de novos desafios e aprendizados
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jzzn96&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzzn96&layout=compact&show_icons=true&theme=transparent)](https://github.com/jzzn96/github-readme-stats)
 
 
 
